@@ -1,27 +1,45 @@
-<h1 align="center">Abinash Dutta</h1>
+<h1 align="center">Hi 👋, I'm Abinash Dutta</h1>
 
-<h3 align="center">🚀 Python Full Stack Developer | Django | REST API | Problem Solver</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Full+Stack+Developer;Django+Backend+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
-</p>
+<h3 align="center">
+🚀 Python Full Stack Developer | Django Developer | API Builder
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;Building+Real+World+Projects;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-```python
-class AbinashDutta:
-    def __init__(self):
-        self.role = "Python Full Stack Developer"
-        self.backend = ["Python", "Django", "REST API"]
-        self.frontend = ["HTML", "CSS", "JavaScript", "Bootstrap"]
-        self.database = ["SQLite", "MySQL"]
-        self.current_focus = "Building real-world projects"
+### 👨‍💻 About Me
 
-    def say_hi(self):
-        return "Thanks for visiting my profile 🚀"
+- 🔭 Currently building Django Projects  
+- 🌱 Learning Full Stack Development  
+- 💬 Ask me about Python, Django, HTML, CSS  
+- 📍 Based in India  
+- ⚡ I love building real-world applications  
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend:** Python | Django | REST API  
+
+**Frontend:** HTML | CSS | JavaScript | Bootstrap  
+
+**Database:** SQLite | MySQL  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinashdutta81&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinashdutta81&theme=tokyonight)
+
+---
