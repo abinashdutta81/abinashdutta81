@@ -32,11 +32,10 @@
 
 ---
 
-#### 📊 GitHub Analytics
+##### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinashdutta81&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinashdutta81&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abinashdutta81&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
