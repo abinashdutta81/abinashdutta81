@@ -1,12 +1,8 @@
-<p align="right">
+<p align="centre">
   <img src="https://komarev.com/ghpvc/?username=abinashdutta81&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abinash Dutta</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abinashdutta81&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
