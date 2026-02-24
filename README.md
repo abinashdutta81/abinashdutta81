@@ -1,4 +1,10 @@
 
+<h1 align="center">Hi 👋 I'm Abinash Dutta</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Developer;Future+Data+Scientist;Building+Cool+Projects+🚀" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abinash Dutta</h1>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
