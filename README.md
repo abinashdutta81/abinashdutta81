@@ -22,8 +22,6 @@
 
 ---
 ## 🛠️ Tech Stack
-<h2 align="center">🛠️ Tech Stack</h2>
-
 <p align="center">
 
 <a href="https://www.google.com/search?q=Python+programming+language" target="_blank">
