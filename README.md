@@ -21,14 +21,52 @@
 - ⚡ I love building real-world applications  
 
 ---
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+### 🚀 Backend
+<p>
+  <a href="https://www.google.com/search?q=Python+programming+language" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
 
-**Backend:** Python | Django | REST API  
+  <a href="https://www.google.com/search?q=Django+framework" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  </a>
 
-**Frontend:** HTML | CSS | JavaScript | Bootstrap  
+  <a href="https://www.google.com/search?q=REST+API" target="_blank">
+    <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  </a>
+</p>
 
-**Database:** SQLite | MySQL  
+### 🎨 Frontend
+<p>
+  <a href="https://www.google.com/search?q=HTML5" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+
+  <a href="https://www.google.com/search?q=CSS3" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+
+  <a href="https://www.google.com/search?q=JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+
+  <a href="https://www.google.com/search?q=Bootstrap+framework" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+</p>
+
+### 🗄️ Database
+<p>
+  <a href="https://www.google.com/search?q=SQLite+database" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </a>
+
+  <a href="https://www.google.com/search?q=MySQL+database" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
