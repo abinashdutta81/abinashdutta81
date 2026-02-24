@@ -2,10 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=abinashdutta81&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDljd3k0c2R3eG1yZ3Z3Z3R2c3V0d3B6ZzFvM3ZqZ3J6cWJ4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Abinash Dutta</h1>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
