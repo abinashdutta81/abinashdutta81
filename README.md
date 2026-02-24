@@ -1,34 +1,27 @@
-<h1 align="center">Hi 👋, I'm Abinash Dutta</h1>
+<h1 align="center">Abinash Dutta</h1>
 
-<h3 align="center">
-🚀 Python Full Stack Developer | Django Developer
-</h3>
+<h3 align="center">🚀 Python Full Stack Developer | Django | REST API | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Full+Stack+Developer;Django+Backend+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently building Django projects  
-- 🌱 Learning Full Stack Development  
-- 💬 Ask me about Python, Django, HTML, CSS  
-- 📍 Based in India  
+```python
+class AbinashDutta:
+    def __init__(self):
+        self.role = "Python Full Stack Developer"
+        self.backend = ["Python", "Django", "REST API"]
+        self.frontend = ["HTML", "CSS", "JavaScript", "Bootstrap"]
+        self.database = ["SQLite", "MySQL"]
+        self.current_focus = "Building real-world projects"
 
----
-
-### 🛠️ Tech Stack
-
-**Backend:** Python | Django  
-
-**Frontend:** HTML | CSS | JavaScript  
-
-**Database:** SQLite | MySQL  
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinashdutta81&show_icons=true&theme=tokyonight)
+    def say_hi(self):
+        return "Thanks for visiting my profile 🚀"
