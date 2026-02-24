@@ -22,39 +22,46 @@
 
 ---
 ## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 🚀 Backend
-<p>
-  <a href="https://www.google.com/search?q=Python+programming+language" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
+<p align="center">
 
-  <a href="https://www.google.com/search?q=Django+framework" target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  </a>
+<a href="https://www.google.com/search?q=Python+programming+language" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" width="70" style="border-radius:50%; border:3px solid orange; padding:8px; background:white;">
+</a>
 
-  <a href="https://www.google.com/search?q=REST+API" target="_blank">
-    <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.google.com/search?q=Django+framework" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" width="70" style="border-radius:50%; border:3px solid green; padding:8px; background:white;">
+</a>
 
-### 🎨 Frontend
-<p>
-  <a href="https://www.google.com/search?q=HTML5" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
+<a href="https://www.google.com/search?q=REST+API" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="70" style="border-radius:50%; border:3px solid blue; padding:8px; background:white;">
+</a>
 
-  <a href="https://www.google.com/search?q=CSS3" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
+<a href="https://www.google.com/search?q=HTML+language" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" width="70" style="border-radius:50%; border:3px solid red; padding:8px; background:white;">
+</a>
 
-  <a href="https://www.google.com/search?q=JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
+<a href="https://www.google.com/search?q=CSS+language" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" width="70" style="border-radius:50%; border:3px solid blue; padding:8px; background:white;">
+</a>
 
-  <a href="https://www.google.com/search?q=Bootstrap+framework" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
+<a href="https://www.google.com/search?q=JavaScript+language" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" width="70" style="border-radius:50%; border:3px solid yellow; padding:8px; background:white;">
+</a>
+
+<a href="https://www.google.com/search?q=Bootstrap+framework" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="70" style="border-radius:50%; border:3px solid purple; padding:8px; background:white;">
+</a>
+
+<a href="https://www.google.com/search?q=SQLite+database" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="70" style="border-radius:50%; border:3px solid darkblue; padding:8px; background:white;">
+</a>
+
+<a href="https://www.google.com/search?q=MySQL+database" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" width="70" style="border-radius:50%; border:3px solid navy; padding:8px; background:white;">
+</a>
+
 </p>
 
 ### 🗄️ Database
