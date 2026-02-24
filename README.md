@@ -12,6 +12,7 @@
 🚀 Python Full Stack Developer | Django Developer | API Builder
 </h3>
 ---
+
 ### 👨‍💻 About Me
 
 - 🔭 Currently building Django Projects  
