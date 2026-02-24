@@ -32,9 +32,12 @@
 
 ---
 
-### 📊 GitHub Stats
+#### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinashdutta81&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abinashdutta81&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinashdutta81&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
