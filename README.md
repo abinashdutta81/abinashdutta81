@@ -64,19 +64,6 @@
 
 </p>
 
-### 🗄️ Database
-<p>
-  <a href="https://www.google.com/search?q=SQLite+database" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  </a>
-
-  <a href="https://www.google.com/search?q=MySQL+database" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinashdutta81&theme=tokyonight)
