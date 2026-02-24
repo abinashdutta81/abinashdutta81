@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abinash Dutta</h1>
 
-<!--
-**abinashdutta81/abinashdutta81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Python Full Stack Developer | Django Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;Building+Real+Projects" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building Django projects  
+- 🌱 Learning Full Stack Development  
+- 💬 Ask me about Python, Django, HTML, CSS  
+- 📍 Based in India  
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend:** Python | Django  
+
+**Frontend:** HTML | CSS | JavaScript  
+
+**Database:** SQLite | MySQL  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinashdutta81&show_icons=true&theme=tokyonight)
