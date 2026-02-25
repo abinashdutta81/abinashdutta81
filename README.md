@@ -82,7 +82,7 @@
 
 <!-- Portfolio Website -->
 <a href="https://yourportfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <!-- Linkedin -->
