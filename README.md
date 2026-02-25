@@ -87,7 +87,7 @@
 
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/abinash-dutta-2517b6273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+<img src="https://img.shields.io/badge/Linkedin-181717?style=for-the-badge&logo=github&logoColor=white" width="60"/>
 </a>
 
 </p>
