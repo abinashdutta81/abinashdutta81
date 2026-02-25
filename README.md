@@ -71,3 +71,23 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinashdutta81&theme=tokyonight)
 
 ---
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<!-- WhatsApp Button -->
+<a href="https://wa.me/91YOURNUMBER" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<!-- Portfolio Website -->
+<a href="https://yourportfolio.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/abinashdutta81" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
