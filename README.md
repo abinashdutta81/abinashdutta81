@@ -75,19 +75,19 @@
 
 <p align="center">
 
-<!-- WhatsApp Button -->
-<a href="https://wa.me/917735892764" target="Hii">
+<!-- WhatsApp -->
+<a href="https://wa.me/91YOUR_NUMBER" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <!-- Portfolio Website -->
-<a href="https://yourportfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<!-- Linkedin -->
-<a href="https://www.linkedin.com/in/abinash-dutta-2517b6273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-181717?style=for-the-badge&logo=github&logoColor=white" width="60"/>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
