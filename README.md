@@ -86,7 +86,7 @@
 </a>
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://linkedin.com/in/abinashdutta81/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
