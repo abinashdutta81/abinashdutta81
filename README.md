@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Abinash Dutta</h1>
 
-<img align="center" alt="coding" width="350" src="https://komarev.com/ghpvc/?username=abinashdutta81&label=Profile%20Views&color=blueviolet&style=for-the-badge">
+<img align="center" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F8FF&size=28&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;Building+Real+World+Projects;Future+Software+Engineer" />
