@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Abinash Dutta</h1>
 
-<img align="center" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center">alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F8FF&size=28&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;Building+Real+World+Projects;Future+Software+Engineer" />
@@ -70,9 +70,9 @@
 ---
 
 ### 🔥 Streak Stats
-
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinashdutta81&theme=tokyonight)
-
+</p>
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
