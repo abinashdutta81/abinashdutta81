@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F8FF&size=28&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Backend+Specialist;Building+Scalable+Web+Applications;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F8FF&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Engineer;Frontend+Specialist;Backend+API+Developer;Web+App+Builder" />
 </p>
 
 ---
